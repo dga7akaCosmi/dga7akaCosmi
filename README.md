@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dga7akaCosmi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hello please read this beacuse u need to know this 
+our viruses file doesn t have any password 
+the viruses are very dangerous so if u wanna teste them test them in a virtual machine like Vmware or virtual box
 
-<!---
-dga7akaCosmi/dga7akaCosmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
